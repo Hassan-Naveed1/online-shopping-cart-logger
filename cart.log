@@ -1,0 +1,17 @@
+2025-12-05 19:47:33,968 - __main__ - INFO - The entered product A doesnt exist
+2025-12-05 19:47:55,665 - __main__ - INFO - The entered product A doesnt exist
+2025-12-05 19:48:21,368 - __main__ - INFO - The entered A exists in the cart
+2025-12-05 19:49:18,634 - __main__ - INFO - The entered product Apple doesnt exist
+2025-12-05 19:49:37,113 - __main__ - INFO - The entered product Apple doesnt exist
+2025-12-05 19:50:06,904 - __main__ - INFO - The entered product Apple doesnt exist
+2025-12-05 19:50:25,610 - __main__ - INFO - The entered product Apple doesnt exist
+2025-12-05 19:50:33,820 - __main__ - INFO - The entered product A doesnt exist
+2025-12-05 19:50:46,597 - __main__ - INFO - The entered product A doesnt exist
+2025-12-05 19:51:09,140 - __main__ - INFO - The entered A exists in the cart
+2025-12-05 20:02:42,262 - __main__ - INFO - The entered A exists in the cart
+2025-12-05 20:02:43,359 - __main__ - INFO - The item A has been added to the cart and the quantity of the product is: 6
+2025-12-05 20:15:08,739 - __main__ - INFO - The entered A exists in the cart
+2025-12-05 20:15:11,110 - __main__ - INFO - 4 A has been added to the cart and the price of the product is: 8
+2025-12-05 20:17:32,081 - __main__ - INFO - The entered B exists in the cart
+2025-12-05 20:17:33,900 - __main__ - INFO - 3 B has been added to the cart and the price of the product is: 9
+2025-12-05 20:19:56,165 - __main__ - INFO - Exception occured: Invalid Product: The entered product doesnt exist.
